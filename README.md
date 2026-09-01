@@ -122,14 +122,10 @@ AstroSage-Analysis/
 │   └── cleaned_data.xlsx
 ├── dashboards/
 │   └── call_center_dashboard.xlsx
-├── scripts/
-│   ├── data_cleaning.R / .py
-│   └── analysis_queries.sql
 ├── reports/
 │   ├── objective_answers.md
 │   └── subjective_answers.md
 ├── README.md
-└── LICENSE
 ```
 
 ---
