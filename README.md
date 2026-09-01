@@ -1,5 +1,4 @@
-# AstroSage Call Center Performance Analysis – Project README
-
+# AstroSage Call Center Performance Analysis 
 ## 📌 Project Overview
 This project performs a comprehensive data-driven analysis of AstroSage's call center operations, using a raw dataset of **28,027 session records** and **35 attributes** (expanded to **62 columns** after cleaning and feature engineering). The analysis focuses on **operational efficiency**, **customer satisfaction (CSAT)**, **agent performance**, and **strategic investment planning** to optimize a **₹1 crore budget**.
 
